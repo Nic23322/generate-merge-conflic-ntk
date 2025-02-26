@@ -1,0 +1,1 @@
+# generate-merge-conflic-ntk
